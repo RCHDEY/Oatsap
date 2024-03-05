@@ -1,19 +1,1 @@
 
-{
-    "functions": {
-        "targets": [
-            "fn",
-            "sendemail",
-            "jaavafn",
-            "mynode",
-            "cert_gen_function"
-        ],
-        "ignore":[
-            ".output",
-        ],
-        "source":"functions"
-    },
-    "client":{
-        "source":"client"
-    }
-}
